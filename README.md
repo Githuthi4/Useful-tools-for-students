@@ -15,7 +15,8 @@ This guide covers tools that every student should know about.
 Each section is written by a different team member.
 
 ## VS Code
-## VS Code
+### by Mary Githuthi
+
 
 **Visual Studio Code** (VS Code) is a lightweight but powerful source code editor that runs on your desktop. It is the most popular choice for students and professional developers alike because it is highly customizable.
 
