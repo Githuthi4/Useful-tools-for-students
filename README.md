@@ -15,6 +15,7 @@ This guide covers tools that every student should know about.
 Each section is written by a different team member.
 
 ## VS Code
+
 ### by Mary Githuthi
 
 
