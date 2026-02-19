@@ -3,6 +3,7 @@
 A collaborative guide by:
 1. Mary
 2. Dorine
+3. Jackton
 
 ## Table of Contents
 - [Introduction](#introduction)
