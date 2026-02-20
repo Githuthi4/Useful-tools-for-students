@@ -48,6 +48,26 @@ Welcome to the only guide you will ever need.
 > "VS Code is not just an editor; it's a complete ecosystem for modern development."
 ---
 
+## CHATGPT(AI ASSISTANT)
+### prepared by Jackton Mboya
+**ChatGPT** is an advanced AI assistant that helps students brainstorm ideas, summarize long readings, and explain complex topics in simple terms. It is one of the most popular tools for academic productivity and coding support.
+
+#### Why Students Should Use It
+- It provides instant explanations for difficult concepts.
+- It helps outline essays and generate research questions.
+- It can debug code and explain programming logic.
+- It is available 24/7 as a personalized study partner.
+
+#### How to Get Started
+1. Create a free account at [chat.openai.com](https://chat.openai.com).
+2. Type a clear prompt or question into the chat box.
+3. Review the AI's response and ask follow-up questions for more detail.
+
+#### Useful Links
+- [Official ChatGPT Site](https://chat.openai.com)
+- [OpenAI Help Center](https://help.openai.com)
+
+
 ## Notion
 ### prepared by Dorine
 **Notion**  is an all-in-one digital workspace where you can take notes,organize tasks,plan projects and store information all in one place instead of using many separate apps.
