@@ -39,6 +39,12 @@ Welcome to the only guide you will ever need.
 - [VS Code Documentation](https://code.visualstudio.com/docs)
 - [Top 10 Beginner Tips](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
 
+### Shortcuts for VS Code
+1. **Ctrl + S**: Save your file
+2. **Ctrl + Z**: Undo your last mistake.
+3. **Ctrl + F**: Find a specific word in your code.
+4. **Alt + Up/Down**:Move an entire line of code up or down
+
 > "VS Code is not just an editor; it's a complete ecosystem for modern development."
 ---
 
@@ -80,3 +86,6 @@ Notion help centre:https://www.notion.nation.so/help
 - It is not a repository where you can download the source code for the main Canva design tool.
    - It is separate from Konva.js, which is a different, unrelated HTML5 Canvas JavaScript framework.
 > It is not the "Canvas LMS" (Learning Management System) often found on GitHub.
+
+
+
