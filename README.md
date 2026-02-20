@@ -44,9 +44,31 @@ Welcome to the only guide you will ever need.
 ---
 
 ## Notion
-<!-- [Team Member 2 Name] will write this section -->
-
 Jackton Mboya
+
+Notion is the ultimate "all-in-one" workspace that replaces a dozen other apps. For students, it acts as a digital brain—a single place where you can capture notes, manage complex projects, and organize your entire academic life. Unlike traditional word processors, Notion uses a unique "block" system, allowing you to drag and drop everything from text and images to databases and synced calendars.
+
+Why Students Should Use It
+Centralized Organization: Keep your class notes, assignment trackers, and personal journals in one searchable location.
+
+Powerful Databases: Create custom tables to track your GPA, internship applications, or reading lists with automated reminders.
+
+Collaboration: Work in real-time with teammates on group projects, leaving comments and tagging members directly on the page.
+
+Free Pro Features: Students with a valid school email address can upgrade to the Personal Pro Plan for free, allowing for unlimited file uploads and version history.
+
+How to Get Started
+Sign up at notion.so using your student email to unlock the free education upgrade.
+
+Start with a Template: Browse the "Student" category in the template gallery to find pre-made layouts for class notes and weekly agendas.
+
+Master the Slash Command: Type / anywhere on a page to instantly add checkboxes, headers, or math equations.
+Useful Links
+Notion for Education
+
+Notion Help Center & Tutorials
+
+"Notion transforms the chaos of a semester into a structured, visual roadmap for success."
 ## Canva
 #### Prepared and notarized by Eshton
 **Canva** are official repositories maintained by Canva (the graphic design company) for developers, including SDKs, API integrations, and open-source tools. It does not mean the Canva design application itself is open-source.
