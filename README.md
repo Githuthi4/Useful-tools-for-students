@@ -22,10 +22,16 @@ Each section is written by a different team member.
 <!-- [Team Member 2 Name] will write this section -->
 
 Jackton Mboya
-## Canva
-**Canva** is an online graphic design platform that allows students to create professional-quality visuals without needing advanced design skills.
 
-### Key Features for Students
-* **Education Templates:** Access to layouts for presentations and infographics.
-* **Collaboration:** Multiple team members can edit a design simultaneously.
-* **Why It’s Useful:** It provides a pro-level aesthetic with a very low learning curve.
+**Canva** is a powerful online graphic design tool that simplifies the creation of professional-quality visuals. It is widely used by students and professionals alike to create everything from classroom presentations to social media graphics without needing complex design software.
+
+### Why Students Should Use Canva
+- It offers thousands of free educational templates.
+- It has a drag-and-drop interface that is easy to learn.
+- Students can collaborate on the same design in real-time.
+- It includes a massive library of free stock photos and icons.
+
+### How to Get Started
+1. Create a free account at [canva.com](https://www.canva.com).
+2. Choose a template based on your project (e.g., "Infographic").
+3. Customize your design and download it as a PDF or PNG.
