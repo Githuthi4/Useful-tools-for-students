@@ -14,7 +14,7 @@ A collaborative guide by:
 ## Introduction
 This guide covers tools that every student should know about.
 Each section is written by a different team member.
-
+Welcome to the only guide you will ever need.
 ## VS Code
 
 ### by Mary Githuthi
