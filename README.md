@@ -1,10 +1,10 @@
 # Useful-tools-for-students
 
 A collaborative guide by:
-1. Mary
-2. Dorine
-3. Jackton
-4. Eshton
+1. Mary Githuthi
+2. Dorine Kamande
+3. Jackton Mboya
+4. Eshton Mbuthia
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -18,11 +18,10 @@ Each section is written by a different team member but we are all in one team.
 
 Each section is written by a different team member.
 Welcome to the only guide you will ever need.
+
+
 ## VS Code
-
-### by Mary Githuthi
-
-
+### prepard by Mary Githuthi
 **Visual Studio Code** (VS Code) is a lightweight but powerful source code editor that runs on your desktop. It is the most popular choice for students and professional developers alike because it is highly customizable.
 
 ### Why Students Should Use It
@@ -44,31 +43,29 @@ Welcome to the only guide you will ever need.
 ---
 
 ## Notion
-Jackton Mboya
+### prepared by Dorine
+**Notion**  is an all-in-one digital workspace where you can take notes,organize tasks,plan projects and store information all in one place instead of using many separate apps.
+It is  a smart nootebook+planner+organizer that you can fully customize.
 
-Notion is the ultimate "all-in-one" workspace that replaces a dozen other apps. For students, it acts as a digital brain—a single place where you can capture notes, manage complex projects, and organize your entire academic life. Unlike traditional word processors, Notion uses a unique "block" system, allowing you to drag and drop everything from text and images to databases and synced calendars.
+### Why Students Should Use It
+- Keep everything in one place.
+- Helps with time management.
+- Great for studying and revision.
+- Improves organizational skills.
+- Free and student friendly.
 
-Why Students Should Use It
-Centralized Organization: Keep your class notes, assignment trackers, and personal journals in one searchable location.
 
-Powerful Databases: Create custom tables to track your GPA, internship applications, or reading lists with automated reminders.
+### How to Get Started
+1. Go to the oficial site:https://www.notion.so.
+2. Click sign up-you can use Google,apple,or an email account
+3. Select student if you want the free personal pro plan
 
-Collaboration: Work in real-time with teammates on group projects, leaving comments and tagging members directly on the page.
+### Useful Links
+Notion templates for students:https://www.notion.so/templates
+Student setup guide(Notion blog):https//www.notion.so/blog/student-life
+Notion help centre:https://www.notion.nation.so/help
 
-Free Pro Features: Students with a valid school email address can upgrade to the Personal Pro Plan for free, allowing for unlimited file uploads and version history.
 
-How to Get Started
-Sign up at notion.so using your student email to unlock the free education upgrade.
-
-Start with a Template: Browse the "Student" category in the template gallery to find pre-made layouts for class notes and weekly agendas.
-
-Master the Slash Command: Type / anywhere on a page to instantly add checkboxes, headers, or math equations.
-Useful Links
-Notion for Education
-
-Notion Help Center & Tutorials
-
-"Notion transforms the chaos of a semester into a structured, visual roadmap for success."
 ## Canva
 #### Prepared and notarized by Eshton
 **Canva** are official repositories maintained by Canva (the graphic design company) for developers, including SDKs, API integrations, and open-source tools. It does not mean the Canva design application itself is open-source.
