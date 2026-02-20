@@ -19,19 +19,28 @@ Each section is written by a different team member.
 <!-- [Team Member 1 Name] will write this section -->
 
 ## Notion
-<!-- [Team Member 2 Name] will write this section -->
-
 Jackton Mboya
 
-**Canva** is a powerful online graphic design tool that simplifies the creation of professional-quality visuals. It is widely used by students and professionals alike to create everything from classroom presentations to social media graphics without needing complex design software.
+Notion is the ultimate "all-in-one" workspace that replaces a dozen other apps. For students, it acts as a digital brain—a single place where you can capture notes, manage complex projects, and organize your entire academic life. Unlike traditional word processors, Notion uses a unique "block" system, allowing you to drag and drop everything from text and images to databases and synced calendars.
 
-### Why Students Should Use Canva
-- It offers thousands of free educational templates.
-- It has a drag-and-drop interface that is easy to learn.
-- Students can collaborate on the same design in real-time.
-- It includes a massive library of free stock photos and icons.
+Why Students Should Use It
+Centralized Organization: Keep your class notes, assignment trackers, and personal journals in one searchable location.
 
-### How to Get Started
-1. Create a free account at [canva.com](https://www.canva.com).
-2. Choose a template based on your project (e.g., "Infographic").
-3. Customize your design and download it as a PDF or PNG.
+Powerful Databases: Create custom tables to track your GPA, internship applications, or reading lists with automated reminders.
+
+Collaboration: Work in real-time with teammates on group projects, leaving comments and tagging members directly on the page.
+
+Free Pro Features: Students with a valid school email address can upgrade to the Personal Pro Plan for free, allowing for unlimited file uploads and version history.
+
+How to Get Started
+Sign up at notion.so using your student email to unlock the free education upgrade.
+
+Start with a Template: Browse the "Student" category in the template gallery to find pre-made layouts for class notes and weekly agendas.
+
+Master the Slash Command: Type / anywhere on a page to instantly add checkboxes, headers, or math equations.
+Useful Links
+Notion for Education
+
+Notion Help Center & Tutorials
+
+"Notion transforms the chaos of a semester into a structured, visual roadmap for success."
