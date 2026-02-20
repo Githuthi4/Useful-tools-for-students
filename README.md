@@ -47,7 +47,7 @@ Each section is written by a different team member.
 Jackton Mboya
 ## Canva
 #### Prepared and notarized by Eshton
-**Canva** is an official repositories maintained by Canva (the graphic design company) for developers, including SDKs, API integrations, and open-source tools. It does not mean the Canva design application itself is open-source.
+**Canva** are official repositories maintained by Canva (the graphic design company) for developers, including SDKs, API integrations, and open-source tools. It does not mean the Canva design application itself is open-source.
 ### Key Features for Students
 * **Canva Developers & SDKs:** Canva provides resources for developers to build apps that run inside the Canva editor. This includes the Apps SDK, which allows developers to create custom UI elements, use APIs for interacting with designs, and build tools using JavaScript.
 * **Connect APIs:** These tools allow third-party developers to programmatically access and embed Canva capabilities, such as creating designs or accessing user content from outside the Canva platform.
