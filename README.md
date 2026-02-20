@@ -45,9 +45,16 @@ Each section is written by a different team member.
 
 Jackton Mboya
 ## Canva
-**Canva** is an online graphic design platform that allows students to create professional-quality visuals without needing advanced design skills.
-
+#### Prepared and notarized by Eshton
+**Canva** is an official repositories maintained by Canva (the graphic design company) for developers, including SDKs, API integrations, and open-source tools. It does not mean the Canva design application itself is open-source.
 ### Key Features for Students
-* **Education Templates:** Access to layouts for presentations and infographics.
-* **Collaboration:** Multiple team members can edit a design simultaneously.
-* **Why It’s Useful:** It provides a pro-level aesthetic with a very low learning curve.
+* **Canva Developers & SDKs:** Canva provides resources for developers to build apps that run inside the Canva editor. This includes the Apps SDK, which allows developers to create custom UI elements, use APIs for interacting with designs, and build tools using JavaScript.
+* **Connect APIs:** These tools allow third-party developers to programmatically access and embed Canva capabilities, such as creating designs or accessing user content from outside the Canva platform.
+* **Open-Source Contributions:** Canva contributes to the developer community by open-sourcing specific tools they use, such as customisations for data streaming (e.g., amazon-kinesis-streams-for-fluent-bit).
+### Examples
+1. Canva-apps-sdk-starter-kit
+2. Shows how to use the notification API to display messages in the Canva editor.
+#### What it is not
+- It is not a repository where you can download the source code for the main Canva design tool.
+   - It is separate from Konva.js, which is a different, unrelated HTML5 Canvas JavaScript framework.
+> It is not the "Canvas LMS" (Learning Management System) often found on GitHub.
