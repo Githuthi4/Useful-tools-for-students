@@ -104,6 +104,14 @@ Notion templates for students:https://www.notion.so/templates
 Student setup guide(Notion blog):https//www.notion.so/blog/student-life
 Notion help centre:https://www.notion.nation.so/help
 
+### What you can do with Notion
+
+1. One can write down notes and documents
+2. One can list tasks and to-do lists
+3. One can use Notion for planning - you can put down calenders,study planners,weekly schedules
+4. One can use Notion for collaboration-share pages,comment,work in teams
+
+
 ## Canva
 
 #### Prepared and notarized by Eshton
