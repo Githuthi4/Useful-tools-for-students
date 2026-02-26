@@ -5,6 +5,7 @@ A collaborative guide by:
 2. Dorine Kamande
 3. Jackton Mboya
 4. Eshton Mbuthia
+5. Moses Kahuho
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -16,12 +17,11 @@ A collaborative guide by:
 This guide covers tools that every student should know about.
 Each section is written by a different team member but we are all in one team.
 
-Each section is written by a different team member.
 Welcome to the only guide you will ever need.
 
 
 ## VS Code
-### prepard by Mary Githuthi
+### prepared by Mary 
 **Visual Studio Code** (VS Code) is a lightweight but powerful source code editor that runs on your desktop. It is the most popular choice for students and professional developers alike because it is highly customizable.
 
 ### Why Students Should Use It
